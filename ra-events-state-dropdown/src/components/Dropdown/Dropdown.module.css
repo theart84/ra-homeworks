@@ -1,0 +1,17 @@
+.dropdown-wrapper {
+  position: relative;
+}
+
+.dropdown-button {
+    width: 400px;
+    box-sizing: border-box;
+    padding: 15px 15px;
+    color: white;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 62%);
+    cursor: pointer;
+    box-shadow: 2px 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
